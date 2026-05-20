@@ -1,0 +1,8 @@
+✅ Login successful
+✅ Sauce Labs Bolt T-Shirt added to cart
+✅ Cart page opened
+✅ Checkout page opened
+✅ Checkout details filled
+✅ Checkout overview page loaded
+✅ Order placed successfully
+✅ Order confirmation verified
